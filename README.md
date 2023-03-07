@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadoshmt" alt="kadoshmt" /> </p>
 
-- 🔭 I’m currently working on [Bible Quiz](http://coming.soon.com)
+<!-- - 🔭 I’m currently working on [Bible Quiz](http://coming.soon.com)-->
 
 - 📝 I regulary write articles on [http://coming.soom.com](http://coming.soom.com)
 
