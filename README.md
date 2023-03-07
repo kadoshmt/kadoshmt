@@ -6,7 +6,7 @@
 
 - 📝 I regulary write articles on [http://coming.soom.com](http://coming.soom.com)
 
-- 💬 Ask me about **react, typescript, node, php**
+- 💬 Ask me about **react, angular, typescript, node, php**
 
 - 📫 How to reach me **janes.r.costa@gmail.com**
 
