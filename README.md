@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janes Roberto</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate full-stack developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadoshmt" alt="kadoshmt" /> </p>
 
 <!-- - 🔭 I’m currently working on [Bible Quiz](http://coming.soon.com)-->
