@@ -4,9 +4,9 @@
 
 <!-- - 🔭 I’m currently working on [Bible Quiz](http://coming.soon.com)-->
 
-- 📝 I regulary write articles on [http://coming.soom.com](http://coming.soom.com)
+<!-- - 📝 I regulary write articles on [http://coming.soom.com](http://coming.soom.com) -->
 
-- 💬 Ask me about **react, angular, typescript, node, php**
+- 💬 Ask me about **React, Angular, Typescript, NodeJs, PHP, Spring Boot**
 
 - 📫 How to reach me **janes.r.costa@gmail.com**
 
